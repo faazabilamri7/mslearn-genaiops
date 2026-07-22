@@ -74,7 +74,7 @@ param aiProjectDeploymentsJson string = '''
     },
     "sku": {
       "name": "GlobalStandard",
-      "capacity": 10
+      "capacity": 1
     }
   }
 
